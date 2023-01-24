@@ -1,5 +1,5 @@
 # Mac files
-.DStore
+.DS_Store
 
 # git ignore
 .gitignore
